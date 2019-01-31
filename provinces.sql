@@ -10035,6 +10035,7 @@ INSERT INTO `provinces` (`id`, `code`, `name_th`, `name_en`, `geography_id`) VAL
 (76, '96', 'นราธิวาส', 'Narathiwat', 6),
 (77, '97', 'บึงกาฬ', 'buogkan', 3);
 
+
 --
 -- Indexes for dumped tables
 --
